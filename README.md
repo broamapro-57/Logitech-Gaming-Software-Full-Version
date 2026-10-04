@@ -238,4 +238,4 @@ This repository serves as the official landing page for Logitech Gaming Software
 **Get the most recent version of Logitech Gaming Software today!**
 
 ---
-**Last updated:** 2026-10-04 06:27:16 UTC
+**Last updated:** 2026-10-04 12:53:14 UTC
